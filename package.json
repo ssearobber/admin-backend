@@ -1,0 +1,19 @@
+{
+  "name": "admin-backend",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssearobber/admin-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssearobber/admin-backend/issues"
+  },
+  "homepage": "https://github.com/ssearobber/admin-backend#readme"
+}
